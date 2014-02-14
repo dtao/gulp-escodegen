@@ -1,0 +1,12 @@
+{
+  "name": "gulp-escodegen",
+  "description": "Generate JS from ASTs w/ escodegen",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Dan Tao <daniel.tao@gmail.com>",
+  "repository": "git@github.com:dtao/gulp-escodegen.git",
+  "dependencies": {
+    "escodegen": ">= 1.2.0",
+    "through2": ">= 0.4.1"
+  }
+}
