@@ -4,9 +4,17 @@
   "version": "0.1.0",
   "main": "index.js",
   "author": "Dan Tao <daniel.tao@gmail.com>",
-  "repository": "git@github.com:dtao/gulp-escodegen.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dtao/gulp-escodegen.git"
+  },
+  "homepage": "https://github.com/dtao/gulp-escodegen/",
+  "bugs": "https://github.com/dtao/gulp-escodegen/issues/",
   "dependencies": {
     "escodegen": ">= 1.2.0",
     "through2": ">= 0.4.1"
-  }
+  },
+  "keywords": [
+    "gulpplugin"
+  ]
 }
